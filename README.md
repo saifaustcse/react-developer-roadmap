@@ -41,12 +41,15 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         * [npm](https://www.npmjs.com/)
         * [yarn](https://yarnpkg.com/lang/en/)
         * [pnpm](https://pnpm.js.org/)
+    2. Module Bundlers
+        * [Webpack](https://webpack.js.org/)
+        * [Bazel](https://bazel.build/)
+        * [Rollup](https://rollupjs.org/guide/en)
+        * [Browserify](http://browserify.org/)
+        * [FuseBox](https://fuse-box.org/)
     2. Task Runners
         * [npm scripts](https://docs.npmjs.com/misc/scripts)
         * [gulp](https://gulpjs.com/)
-    * [Webpack](https://webpack.js.org/)
-    * [Rollup](https://rollupjs.org/guide/en)
-    * [Parcel](https://parceljs.org/)
 5. Styling
     1. CSS Preprocessor
         * [Sass/CSS](https://sass-lang.com/)
