@@ -14,31 +14,64 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 ## Resources
 
-1. Basics
-    1. HTML
-        - Learn the basics of HTML
-        - Make a few pages as an exercise
-    2. CSS
-        - Learn the basics of CSS
-        - Style pages from previous step
-        - Build a page with grid and flexbox
-    3. JS Basics
-        - Get familiar with the syntax
-        - Learn basic operations on DOM
-        - Learn mechanisms typical for JS (Hoisting, Event Bubbling, Prototyping)
-        - Make some AJAX (XHR) calls
-        - Learn new features (ECMA Script 6+)
-        - Additionally, get familiar with the jQuery library
-2. General Development Skills
-    1. Learn GIT, create a few repositories on GitHub, share your code with other people
-    2. Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-    3. Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-    4. Get familiar with terminal, configure your shell (bash, zsh, fish)
-    5. Read a few books about algorithms and data structures
-    6. Read a few books about design patterns
-3. Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
+1. IDEs
 
-4. Get familiar with tools that you will be using
+    - [visualstudio](https://visualstudio.microsoft.com/downloads/)
+    - [visualstudioCode](https://code.visualstudio.com/Download)
+
+2. HTML
+
+    - [w3schools](https://www.w3schools.com/html/) HTML Tutorial
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML: HyperText Markup Language
+
+3. CSS
+
+    - [w3schools](https://www.w3schools.com/css/) CSS Tutorial
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS: Cascading Style Sheets
+    - [fontawesome](https://fontawesome.com/) Official website
+    - [w3schools](https://www.w3schools.com/icons/icons_reference.asp) Icons Reference
+
+4. JavaScript
+
+    _Basic_
+
+    - [w3schools](https://www.w3schools.com/js/default.asp) JavaScript Tutorial
+    - [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript
+    - [javascript.info](https://javascript.info/) The Modern JavaScript Tutorial
+    - [htmlcheatsheet](https://htmlcheatsheet.com/js/) JS CheatSheet
+
+    _es6_
+
+    - [exploringjs](https://exploringjs.com/es6/index.html) Exploring ES6
+    - [es6-features](http://es6-features.org/#Constants) ECMAScript 6 — New Features: Overview & Comparison
+    - [jsfeatures](https://jsfeatures.in) jsfeatures
+    - [babeljs](https://babeljs.io/docs/en/learn) Learn ES2015
+    - [github](https://github.com/lukehoban/es6features) ECMAScript 6
+    - [github](https://github.com/sudheerj/ECMAScript-features) ECMAScript 6
+
+    _Style Guide_
+
+    - [github](https://github.com/airbnb/javascript) Airbnb JavaScript Style Guide
+    - [github](https://github.com/ryanmcdermott/clean-code-javascript) clean-code-javascript
+
+    _playground_
+
+    - [js-array-playground](https://js-array-playground.firebaseapp.com/) JavaScript Array Playground
+    - [jsfiddle](https://jsfiddle.net/)
+    - [plnkr](https://plnkr.co/)
+    - [jsbin](https://jsbin.com/?html,output)
+    - [codepen](https://codepen.io/pen/)
+    - [stackblitz](https://stackblitz.com/)
+
+5. React
+
+    - [official website](https://reactjs.org/tutorial/tutorial.html)
+    - [React cheatsheet](https://devhints.io/react)
+    - [React Patterns](https://reactpatterns.com)
+    - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+
+6. Build Tools
+
     - Package Managers
         - [npm](https://www.npmjs.com/)
         - [yarn](https://yarnpkg.com/lang/en/)
@@ -52,7 +85,9 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     - Task Runners
         - [npm scripts](https://docs.npmjs.com/misc/scripts)
         - [gulp](https://gulpjs.com/)
-5. Styling
+        - [grunt](https://gruntjs.com/)
+
+7. Styling
     - CSS Preprocessor
         - [Sass/CSS](https://sass-lang.com/)
         - [PostCSS](https://postcss.org/)
@@ -60,7 +95,9 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Stylus](http://stylus-lang.com/)
     - CSS Frameworks
         - [Bootstrap](https://getbootstrap.com/)
-        - [Materialize](https://materializecss.com/), [Material UI](https://material-ui.com/), [Material Design Lite](https://getmdl.io/)
+        - [Materialize](https://materializecss.com/), 
+        - [Material UI](https://material-ui.com/)
+        - [Material Design Lite](https://getmdl.io/)
         - [Bulma](https://bulma.io/)
         - [Semantic UI](https://semantic-ui.com/)
     - CSS in JS
@@ -69,7 +106,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Emotion](https://emotion.sh/)
         - [JSS](http://cssinjs.org/)
         - [Aphrodite](https://github.com/Khan/aphrodite)
-6. State Management
+8. State Management
     - [Component State](https://reactjs.org/docs/faq-state.html)/[Context API](https://reactjs.org/docs/context.html)
     - [Redux](https://redux.js.org/)
         - Async actions (Side Effects)
@@ -85,21 +122,21 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             - [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
     - [Redux Form](https://redux-form.com)
     - [MobX](https://mobx.js.org/)
-7. Type Checkers
+9. Type Checkers
     - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
     - [TypeScript](https://www.typescriptlang.org/)
     - [Flow](https://flow.org/en/)
-8. Form Helpers
+10. Form Helpers
     - [Redux Form](https://redux-form.com)
     - [Formik](https://github.com/jaredpalmer/formik)
     - [Formsy](https://github.com/formsy/formsy-react)
     - [Final Form](https://github.com/final-form/final-form)
-9. Routing
+11. Routing
     - [React-Router](https://reacttraining.com/react-router/)
     - [Router5](https://router5.js.org/)
     - [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
     - [Reach Router](https://reach.tech/router/)
-10. API Clients
+12. API Clients
     - REST
         - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
         - [SuperAgent](https://visionmedia.github.io/superagent/)
@@ -108,7 +145,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Apollo](https://www.apollographql.com/docs/react/)
         - [Relay](https://facebook.github.io/relay/)
         - [urql](https://github.com/FormidableLabs/urql)
-11. Utility Libraries
+13. Utility Libraries
     - [Lodash](https://lodash.com/)
     - [Moment](https://momentjs.com/)
     - [classnames](https://github.com/JedWatson/classnames)
@@ -116,7 +153,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     - [RxJS](http://reactivex.io/)
     - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
-12. Testing
+14. Testing
     - Unit Testing
         - [Jest](https://facebook.github.io/jest/)
         - [Enzyme](http://airbnb.io/enzyme/)
@@ -133,25 +170,25 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Nightwatch.js](http://nightwatchjs.org/)
     - Integration Testing
         - [Karma](https://karma-runner.github.io/)
-13. Internationalization
+15. Internationalization
     - [React Intl](https://github.com/yahoo/react-intl)
     - [React i18next](https://react.i18next.com/)
-14. Server Side Rendering
+16. Server Side Rendering
     - [Next.js](https://nextjs.org/)
     - [After.js](https://github.com/jaredpalmer/after.js)
     - [Rogue](https://github.com/alidcastano/rogue.js)
-15. Static Site Generator
+17. Static Site Generator
     - [Gatsby](https://www.gatsbyjs.org/)
-16. Backend Framework Integration
+18. Backend Framework Integration
     - [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
-17. Mobile
+19. Mobile
     - [React Native](https://facebook.github.io/react-native/)
     - [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
-18. Desktop
+20. Desktop
     - [Proton Native](https://proton-native.js.org/)
     - [Electron](https://electronjs.org/)
     - [React Native Windows](https://github.com/Microsoft/react-native-windows)
-19. Virtual Reality
+21. Virtual Reality
     - [React 360](https://facebook.github.io/react-360/)
 
 ## Wrap Up
@@ -160,11 +197,9 @@ If you think the roadmap can be improved, please do open a PR with any updates a
 
 ## Contribution
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `/src` directory. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png).
+If you want to contribute to this project to make it more helpful for other React developers, your help is very welcome!
 
--   Open a pull request with improvements
--   Discuss ideas in issues
--   Spread the word
+Just file an issue, better yet: submit a PR! 🙂
 
 ## License
 
