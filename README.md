@@ -87,7 +87,8 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [gulp](https://gulpjs.com/)
         - [grunt](https://gruntjs.com/)
 
-7. Styling
+7. UI Design
+
     - CSS Preprocessor
         - [Sass/CSS](https://sass-lang.com/)
         - [PostCSS](https://postcss.org/)
@@ -95,8 +96,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Stylus](http://stylus-lang.com/)
     - CSS Frameworks
         - [Bootstrap](https://getbootstrap.com/)
-        - [Materialize](https://materializecss.com/), 
-        - [Material UI](https://material-ui.com/)
+        - [Materialize](https://materializecss.com/)
         - [Material Design Lite](https://getmdl.io/)
         - [Bulma](https://bulma.io/)
         - [Semantic UI](https://semantic-ui.com/)
@@ -106,7 +106,24 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Emotion](https://emotion.sh/)
         - [JSS](http://cssinjs.org/)
         - [Aphrodite](https://github.com/Khan/aphrodite)
-8. State Management
+    - UI components
+        - [Material UI](https://material-ui.com/)
+    - Form Helpers
+        - [Redux Form](https://redux-form.com)
+        - [Formik](https://github.com/jaredpalmer/formik)
+        - [Formsy](https://github.com/formsy/formsy-react)
+        - [Final Form](https://github.com/final-form/final-form)
+    - UI Frameworks
+        - [Material UI](https://material-ui.com/)
+
+8. Type Checkers
+
+    - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [Flow](https://flow.org/en/)
+
+9. State Management
+
     - [Component State](https://reactjs.org/docs/faq-state.html)/[Context API](https://reactjs.org/docs/context.html)
     - [Redux](https://redux.js.org/)
         - Async actions (Side Effects)
@@ -122,21 +139,13 @@ Below you can find a chart demonstrating the paths that you can take and the lib
             - [Redux Phoenix](https://github.com/adam-golab/redux-phoenix)
     - [Redux Form](https://redux-form.com)
     - [MobX](https://mobx.js.org/)
-9. Type Checkers
-    - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
-    - [TypeScript](https://www.typescriptlang.org/)
-    - [Flow](https://flow.org/en/)
-10. Form Helpers
-    - [Redux Form](https://redux-form.com)
-    - [Formik](https://github.com/jaredpalmer/formik)
-    - [Formsy](https://github.com/formsy/formsy-react)
-    - [Final Form](https://github.com/final-form/final-form)
-11. Routing
+
+10. Routing
     - [React-Router](https://reacttraining.com/react-router/)
     - [Router5](https://router5.js.org/)
     - [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
     - [Reach Router](https://reach.tech/router/)
-12. API Clients
+11. API Clients
     - REST
         - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
         - [SuperAgent](https://visionmedia.github.io/superagent/)
@@ -145,7 +154,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Apollo](https://www.apollographql.com/docs/react/)
         - [Relay](https://facebook.github.io/relay/)
         - [urql](https://github.com/FormidableLabs/urql)
-13. Utility Libraries
+12. Utility Libraries
     - [Lodash](https://lodash.com/)
     - [Moment](https://momentjs.com/)
     - [classnames](https://github.com/JedWatson/classnames)
@@ -153,7 +162,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     - [RxJS](http://reactivex.io/)
     - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
-14. Testing
+13. Testing
     - Unit Testing
         - [Jest](https://facebook.github.io/jest/)
         - [Enzyme](http://airbnb.io/enzyme/)
@@ -170,25 +179,17 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Nightwatch.js](http://nightwatchjs.org/)
     - Integration Testing
         - [Karma](https://karma-runner.github.io/)
-15. Internationalization
+14. Internationalization
     - [React Intl](https://github.com/yahoo/react-intl)
     - [React i18next](https://react.i18next.com/)
-16. Server Side Rendering
-    - [Next.js](https://nextjs.org/)
-    - [After.js](https://github.com/jaredpalmer/after.js)
-    - [Rogue](https://github.com/alidcastano/rogue.js)
-17. Static Site Generator
-    - [Gatsby](https://www.gatsbyjs.org/)
-18. Backend Framework Integration
-    - [React on Rails](https://shakacode.gitbooks.io/react-on-rails/content/)
-19. Mobile
+15. Mobile
     - [React Native](https://facebook.github.io/react-native/)
     - [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
-20. Desktop
+16. Desktop
     - [Proton Native](https://proton-native.js.org/)
     - [Electron](https://electronjs.org/)
     - [React Native Windows](https://github.com/Microsoft/react-native-windows)
-21. Virtual Reality
+17. Virtual Reality
     - [React 360](https://facebook.github.io/react-360/)
 
 ## Wrap Up
