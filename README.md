@@ -106,15 +106,19 @@ Below you can find a chart demonstrating the paths that you can take and the lib
         - [Emotion](https://emotion.sh/)
         - [JSS](http://cssinjs.org/)
         - [Aphrodite](https://github.com/Khan/aphrodite)
-    - UI components
-        - [Material UI](https://material-ui.com/)
     - Form Helpers
         - [Redux Form](https://redux-form.com)
         - [Formik](https://github.com/jaredpalmer/formik)
         - [Formsy](https://github.com/formsy/formsy-react)
         - [Final Form](https://github.com/final-form/final-form)
     - UI Frameworks
-        - [Material UI](https://material-ui.com/)
+        - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
+        - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
+        - [reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
+        - [chakra-ui](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
+        - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
+        - [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
+        - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 
 8. Type Checkers
 
