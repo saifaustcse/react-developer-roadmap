@@ -195,16 +195,19 @@ If you like or are using this project to learn or start your solution, please gi
     - [React Intl](https://github.com/yahoo/react-intl)
     - [React i18next](https://react.i18next.com/)
 
-15. Mobile
+15. Mobile Application Development
 
     - [React Native](https://facebook.github.io/react-native/)
     - [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
 
-16. Desktop
+16. Desktop Application Development
+
     - [Proton Native](https://proton-native.js.org/)
     - [Electron](https://electronjs.org/)
     - [React Native Windows](https://github.com/Microsoft/react-native-windows)
+
 17. Virtual Reality
+
     - [React 360](https://facebook.github.io/react-360/)
 
 ## Contribution
