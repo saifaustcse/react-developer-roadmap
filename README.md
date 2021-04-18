@@ -74,7 +74,20 @@ If you like or are using this project to learn or start your solution, please gi
     - [React Patterns](https://reactpatterns.com)
     - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 
-6. Build Tools
+6. Routing
+
+    - [React-Router](https://reacttraining.com/react-router/)
+    - [Router5](https://router5.js.org/)
+    - [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
+    - [Reach Router](https://reach.tech/router/)
+
+7. Type Checkers
+
+    - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [Flow](https://flow.org/en/)
+
+8. Build Tools
 
     - Package Managers
         - [npm](https://www.npmjs.com/)
@@ -91,7 +104,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [gulp](https://gulpjs.com/)
         - [grunt](https://gruntjs.com/)
 
-7. UI Design
+9. UI Design
 
     - CSS Preprocessor
         - [Sass/CSS](https://sass-lang.com/)
@@ -119,13 +132,7 @@ If you like or are using this project to learn or start your solution, please gi
         - [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
         - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 
-8. Type Checkers
-
-    - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
-    - [TypeScript](https://www.typescriptlang.org/)
-    - [Flow](https://flow.org/en/)
-
-9. State Management
+10. State Management
 
     - [Component State](https://reactjs.org/docs/faq-state.html)/[Context API](https://reactjs.org/docs/context.html)
     - [Redux](https://redux.js.org/)
@@ -143,12 +150,8 @@ If you like or are using this project to learn or start your solution, please gi
     - [Redux Form](https://redux-form.com)
     - [MobX](https://mobx.js.org/)
 
-10. Routing
-    - [React-Router](https://reacttraining.com/react-router/)
-    - [Router5](https://router5.js.org/)
-    - [Redux-First Router](https://github.com/faceyspacey/redux-first-router)
-    - [Reach Router](https://reach.tech/router/)
 11. API Clients
+
     - REST
         - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
         - [SuperAgent](https://visionmedia.github.io/superagent/)
@@ -157,7 +160,9 @@ If you like or are using this project to learn or start your solution, please gi
         - [Apollo](https://www.apollographql.com/docs/react/)
         - [Relay](https://facebook.github.io/relay/)
         - [urql](https://github.com/FormidableLabs/urql)
+
 12. Utility Libraries
+
     - [Lodash](https://lodash.com/)
     - [Moment](https://momentjs.com/)
     - [classnames](https://github.com/JedWatson/classnames)
@@ -165,7 +170,9 @@ If you like or are using this project to learn or start your solution, please gi
     - [RxJS](http://reactivex.io/)
     - [ImmutableJS](https://facebook.github.io/immutable-js/)
     - [Ramda](https://ramdajs.com/)
+
 13. Testing
+
     - Unit Testing
         - [Jest](https://facebook.github.io/jest/)
         - [Enzyme](http://airbnb.io/enzyme/)
@@ -182,12 +189,17 @@ If you like or are using this project to learn or start your solution, please gi
         - [Nightwatch.js](http://nightwatchjs.org/)
     - Integration Testing
         - [Karma](https://karma-runner.github.io/)
+
 14. Internationalization
+
     - [React Intl](https://github.com/yahoo/react-intl)
     - [React i18next](https://react.i18next.com/)
+
 15. Mobile
+
     - [React Native](https://facebook.github.io/react-native/)
     - [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
+
 16. Desktop
     - [Proton Native](https://proton-native.js.org/)
     - [Electron](https://electronjs.org/)
