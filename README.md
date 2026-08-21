@@ -8,36 +8,29 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 | No. | Topic                                                                  |
 | --- | ---------------------------------------------------------------------- |
-| 1   | [Disclaimer](#1-disclaimer)                                            |
-| 2   | [Roadmap](#2-roadmap)                                                  |
-| 3   | [IDEs](#3-ides)                                                        |
-| 4   | [HTML](#4-html)                                                        |
-| 5   | [CSS](#5-css)                                                          |
-| 6   | [JavaScript](#6-javascript)                                            |
-| 7   | [React](#7-react)                                                      |
-| 8   | [Routing](#8-routing)                                                  |
-| 9   | [Build Tools](#9-build-tools)                                          |
-| 10  | [UI Design](#10-ui-design)                                             |
-| 11  | [API Clients](#11-api-clients)                                         |
-| 12  | [Fundamental 3rd Parties](#12-fundamental-3rd-parties)                 |
-| 13  | [State Management](#13-state-management)                               |
-| 14  | [Architecture](#14-architecture)                                       |
-| 15  | [Coding Style](#15-coding-style)                                       |
-| 16  | [Utility Libraries](#16-utility-libraries)                             |
-| 17  | [Testing](#17-testing)                                                 |
-| 18  | [Internationalization](#18-internationalization)                       |
-| 19  | [Progressive Web Apps](#19-progressive-web-apps)                       |
-| 20  | [Server-Side Rendering](#20-server-side-rendering)                     |
-| 21  | [Mobile Application Development](#21-mobile-application-development)   |
-| 22  | [Desktop Application Development](#22-desktop-application-development) |
+| 1   | [Roadmap](#1-roadmap)                                                  |
+| 2   | [IDEs](#2-ides)                                                        |
+| 3   | [HTML](#3-html)                                                        |
+| 4   | [CSS](#4-css)                                                          |
+| 5   | [JavaScript](#5-javascript)                                            |
+| 6   | [React](#6-react)                                                      |
+| 7   | [Routing](#7-routing)                                                  |
+| 8   | [Build Tools](#8-build-tools)                                          |
+| 9   | [UI Design](#9-ui-design)                                              |
+| 10  | [API Clients](#10-api-clients)                                         |
+| 11  | [Fundamental 3rd Parties](#11-fundamental-3rd-parties)                 |
+| 12  | [State Management](#12-state-management)                               |
+| 13  | [Architecture](#13-architecture)                                       |
+| 14  | [Coding Style](#14-coding-style)                                       |
+| 15  | [Utility Libraries](#15-utility-libraries)                             |
+| 16  | [Testing](#16-testing)                                                 |
+| 17  | [Internationalization](#17-internationalization)                       |
+| 18  | [Progressive Web Apps](#18-progressive-web-apps)                       |
+| 19  | [Server-Side Rendering](#19-server-side-rendering)                     |
+| 20  | [Mobile Application Development](#20-mobile-application-development)   |
+| 21  | [Desktop Application Development](#21-desktop-application-development) |
 
-## 1. Disclaimer
-
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
-
-**[⬆ Back to Top](#table-of-contents)**
-
-## 2. Roadmap
+## 1. Roadmap
 
 <p align="center">
     <img src="images/react-developer-roadmap.png" alt="React Developer Roadmap">
@@ -45,7 +38,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 3. IDEs
+## 2. IDEs
 
 | IDE                                                          | Short Description                                   | Pricing      |
 | ------------------------------------------------------------ | --------------------------------------------------- | ------------ |
@@ -60,14 +53,14 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 4. HTML
+## 3. HTML
 
 - [w3schools](https://www.w3schools.com/html/) HTML Tutorial
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML: HyperText Markup Language
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 5. CSS
+## 4. CSS
 
 - [w3schools](https://www.w3schools.com/css/) CSS Tutorial
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS: Cascading Style Sheets
@@ -76,7 +69,7 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 6. JavaScript
+## 5. JavaScript
 
 _Basic_
 
@@ -109,7 +102,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 7. React
+## 6. React
 
 - [Official website](https://react.dev/)
 - [Learn React](https://react.dev/learn)
@@ -120,14 +113,14 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 8. Routing
+## 7. Routing
 
 - [React Router](https://reactrouter.com/)
 - [TanStack Router](https://tanstack.com/router/latest)
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 9. Build Tools
+## 8. Build Tools
 
 - Package Managers
   - [npm](https://www.npmjs.com/)
@@ -148,7 +141,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 10. UI Design
+## 9. UI Design
 
 - CSS Preprocessor
   - [Sass/CSS](https://sass-lang.com/)
@@ -179,7 +172,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 11. API Clients
+## 10. API Clients
 
 - REST
   - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
@@ -194,7 +187,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 12. Fundamental 3rd Parties
+## 11. Fundamental 3rd Parties
 
 - TypeScript
   - ["TypeScript Deep Dive"](https://github.com/basarat/typescript-book)
@@ -206,7 +199,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 13. State Management
+## 12. State Management
 
 - [Component State](https://react.dev/learn/state-a-components-memory)/[Context API](https://react.dev/learn/passing-data-deeply-with-context)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
@@ -226,7 +219,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 14. Architecture
+## 13. Architecture
 
 - [Thinking in React](https://react.dev/learn/thinking-in-react)
 - [Bulletproof React](https://github.com/alan2207/bulletproof-react) - A scalable, well-organized React architecture
@@ -234,7 +227,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 15. Coding Style
+## 14. Coding Style
 
 - [Airbnb React Style Guide](https://airbnb.io/javascript/react/)
 - [ESLint](https://eslint.org/) with [typescript-eslint](https://typescript-eslint.io/) (replaces the deprecated TSLint)
@@ -242,7 +235,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 16. Utility Libraries
+## 15. Utility Libraries
 
 - [Lodash](https://lodash.com/)
 - [Moment](https://momentjs.com/) (maintenance mode – consider [date-fns](https://date-fns.org/), [Day.js](https://day.js.org/), or [Luxon](https://moment.github.io/luxon/))
@@ -253,7 +246,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 17. Testing
+## 16. Testing
 
 - Unit Testing
   - [Jest](https://jestjs.io/)
@@ -268,7 +261,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 18. Internationalization
+## 17. Internationalization
 
 - [react-i18next](https://react.i18next.com/)
 - [FormatJS (React Intl)](https://formatjs.io/docs/react-intl/)
@@ -276,14 +269,14 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 19. Progressive Web Apps
+## 18. Progressive Web Apps
 
 - [Workbox](https://developer.chrome.com/docs/workbox/)
 - [vite-plugin-pwa](https://vite-pwa-org.netlify.app/)
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 20. Server-Side Rendering
+## 19. Server-Side Rendering
 
 - [Next.js](https://nextjs.org/) - The React Framework with SSR/SSG, streaming, and React Server Components
 - [React Router (framework mode)](https://reactrouter.com/how-to/pre-rendering) - SSR/SSG (successor of Remix)
@@ -291,7 +284,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 21. Mobile Application Development
+## 20. Mobile Application Development
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
@@ -299,7 +292,7 @@ _Playground_
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## 22. Desktop Application Development
+## 21. Desktop Application Development
 
 - [Electron](https://electronjs.org/)
 - [Tauri](https://tauri.app/)
